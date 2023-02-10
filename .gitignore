@@ -1,8 +1,2 @@
-# ファイル
-.DS_store
-
-# ディレクトリ
-/top
-
-# ワイルドカード
-.log
+DS_Store
+Thumbs.db
